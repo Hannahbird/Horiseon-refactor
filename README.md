@@ -6,3 +6,7 @@ CSS selectors were consolidated to be more efficient. CSS was also cleaned up to
 
 Deployed URL: https://hannahbird.github.io/refactor-challenge/
 Github repo URL: https://github.com/Hannahbird/refactor-challenge
+
+Submission
+
+hannahbird.github.io_refactor-challenge_webpage-screenshot.png
